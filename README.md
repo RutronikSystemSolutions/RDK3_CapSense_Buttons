@@ -8,7 +8,7 @@ This code example demonstrates the CAPSENSE™ buttons that are working in CSX m
 
 ## Requirements
 
-- [ModusToolbox™ software](https://www.cypress.com/products/modustoolbox-software-environment) v2.4
+- [ModusToolbox™ software](https://www.cypress.com/products/modustoolbox-software-environment) v3.0
 
 ## The Provisioning of the RDK3
 
